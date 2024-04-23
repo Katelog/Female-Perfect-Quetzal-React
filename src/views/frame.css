@@ -774,3 +774,8 @@
   text-align: center;
   line-height: 20px;
 }
+@media(max-width: 479px) {
+  .frame-landing {
+    height: 1671px;
+  }
+}
