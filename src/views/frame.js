@@ -10,66 +10,6 @@ const Frame = (props) => {
       <Helmet>
         <title>exported project</title>
       </Helmet>
-      <div className="frame-frame">
-        <div className="frame-group1001">
-          <div className="frame-group2">
-            <div>
-              <span className="frame-text">
-                <span>Помощь</span>
-              </span>
-            </div>
-          </div>
-          <div className="frame-group3">
-            <div className="frame-frame11">
-              <span className="frame-text02">
-                <span>Выйти</span>
-              </span>
-            </div>
-          </div>
-        </div>
-        <div className="frame-group1007">
-          <div className="frame-group1006">
-            <img
-              alt="Rectangle32119"
-              src="/external/rectangle32119-kbk7-300h.png"
-              className="frame-rectangle3"
-            />
-            <img
-              alt="Union2119"
-              src="/external/union2119-xyok.svg"
-              className="frame-union"
-            />
-            <span className="frame-text04">
-              <span>Выдать стакан</span>
-              <br></br>
-              <span>клиенту</span>
-            </span>
-            <img
-              alt="Rectangle72119"
-              src="/external/rectangle72119-9lr-300h.png"
-              className="frame-rectangle7"
-            />
-            <img
-              alt="Union2119"
-              src="/external/union2119-wli.svg"
-              className="frame-union1"
-            />
-            <span className="frame-text08">
-              <span>Принять стакан</span>
-              <br></br>
-              <span>обратно</span>
-            </span>
-          </div>
-          <div className="frame-group1005">
-            <span className="frame-text12">
-              <span>Шоколадница</span>
-            </span>
-            <span className="frame-text14">
-              <span>Москва, ул. Ленина, 32</span>
-            </span>
-          </div>
-        </div>
-      </div>
       <div className="frame-landing">
         <div className="frame-status-bar">
           <div className="frame-notch">
@@ -81,7 +21,7 @@ const Frame = (props) => {
           </div>
           <div className="frame-left-side">
             <div className="frame-frame-status-bartime">
-              <span className="frame-text16">
+              <span className="frame-text">
                 <span>9:41</span>
               </span>
             </div>
@@ -114,7 +54,7 @@ const Frame = (props) => {
           </div>
           <div className="frame-frame-header-central-content">
             <div className="frame-frame-title">
-              <span className="frame-text18 EcoplatformHeadlineMediumM—20px">
+              <span className="frame-text02 EcoplatformHeadlineMediumM—20px">
                 <span>Бутылки и банки</span>
               </span>
             </div>
@@ -143,7 +83,7 @@ const Frame = (props) => {
                 className="frame-image2644"
               />
             </div>
-            <span className="frame-text20 EcoplatformBodyRegularXS—14px">
+            <span className="frame-text04 EcoplatformBodyRegularXS—14px">
               <span>
                 Сдавайте пластиковые бутылки и алюминиевые банки на переработку
                 в фандоматы и получайте баллы за ваш вклад в сохранение
@@ -152,11 +92,11 @@ const Frame = (props) => {
             </span>
           </div>
           <div className="frame-block2">
-            <span className="frame-text22 EcoplatformHeadlineMediumM—20px">
+            <span className="frame-text06 EcoplatformHeadlineMediumM—20px">
               <span>Что принимает фандомат?</span>
             </span>
             <div className="frame-block">
-              <div className="frame-frame1 frame-frame1">
+              <div className="frame-frame">
                 <div className="frame-pic1">
                   <img
                     alt="palindromecore3dalumuniumcan966e1144584542eb90b5592117"
@@ -170,7 +110,7 @@ const Frame = (props) => {
                   />
                 </div>
                 <div className="frame-content1">
-                  <span className="frame-text24 EcoplatformCaption—13px">
+                  <span className="frame-text08 EcoplatformCaption—13px">
                     <span>
                       Пластиковые бутылки и алюминиевые банки
                       <span
@@ -182,7 +122,7 @@ const Frame = (props) => {
                   </span>
                 </div>
               </div>
-              <div className="frame-frame2">
+              <div className="frame-frame1">
                 <div className="frame-pic2">
                   <img
                     alt="IMAGE26442117"
@@ -196,12 +136,12 @@ const Frame = (props) => {
                   />
                 </div>
                 <div className="frame-content2">
-                  <span className="frame-text26 EcoplatformCaption—13px">
+                  <span className="frame-text10 EcoplatformCaption—13px">
                     <span>Без жидкости</span>
                   </span>
                 </div>
               </div>
-              <div className="frame-frame3">
+              <div className="frame-frame2">
                 <div className="frame-pic3">
                   <img
                     alt="IMAGE26442117"
@@ -210,12 +150,12 @@ const Frame = (props) => {
                   />
                 </div>
                 <div className="frame-content3">
-                  <span className="frame-text28 EcoplatformCaption—13px">
+                  <span className="frame-text12 EcoplatformCaption—13px">
                     <span>Объемом до 2 литров</span>
                   </span>
                 </div>
               </div>
-              <div className="frame-frame4">
+              <div className="frame-frame3">
                 <div className="frame-pic4">
                   <img
                     alt="IMAGE26442117"
@@ -254,7 +194,7 @@ const Frame = (props) => {
                   />
                 </div>
                 <div className="frame-content4">
-                  <span className="frame-text30 EcoplatformCaption—13px">
+                  <span className="frame-text14 EcoplatformCaption—13px">
                     <span>Рекомендуем оставить штрихкод</span>
                   </span>
                 </div>
@@ -263,11 +203,11 @@ const Frame = (props) => {
           </div>
           <div className="frame-banner">
             <div className="frame-banner1">
-              <span className="frame-text32 EcoplatformBodyMediumS—16px">
+              <span className="frame-text16 EcoplatformBodyMediumS—16px">
                 <span>Где найти фандоматы?</span>
               </span>
               <button className="frame-button">
-                <span className="frame-text34 EcoplatformBodyBoldXS—14px">
+                <span className="frame-text18 EcoplatformBodyBoldXS—14px">
                   <span>Открыть карту</span>
                 </span>
               </button>
@@ -280,7 +220,7 @@ const Frame = (props) => {
           </div>
           <div className="frame-block1 frame-block1">
             <div className="frame-content5">
-              <span className="frame-text36 EcoplatformHeadlineMediumM—20px">
+              <span className="frame-text20 EcoplatformHeadlineMediumM—20px">
                 <span>
                   Как участвовать
                   <span
@@ -356,15 +296,15 @@ const Frame = (props) => {
                       className="frame-vector30"
                     />
                   </div>
-                  <span className="frame-text40 EcoplatformHeadlineMediumXL—32px">
+                  <span className="frame-text24 EcoplatformHeadlineMediumXL—32px">
                     <span>02</span>
                   </span>
                 </div>
-                <span className="frame-text42 EcoplatformBodyMediumS—16px">
+                <span className="frame-text26 EcoplatformBodyMediumS—16px">
                   <span>Зарегистрировать  номер телефона</span>
                 </span>
               </div>
-              <span className="frame-text44 EcoplatformBodyMediumXS—14px">
+              <span className="frame-text28 EcoplatformBodyMediumXS—14px">
                 <span>
                   при сдаче тары в фандомат или  в приложении. За каждую сданную
                   бутылку или банку вам будет начислено 10 EcoБонусов.
@@ -412,7 +352,7 @@ const Frame = (props) => {
               src="/external/qri211-agaq.svg"
               className="frame-qr"
             />
-            <span className="frame-text46 EcoplatformBodyBoldXS—14px">
+            <span className="frame-text30 EcoplatformBodyBoldXS—14px">
               <span>Сканировать QR</span>
             </span>
           </button>
